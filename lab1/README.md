@@ -1,7 +1,7 @@
 ---
 title: DevOps lab1
 author:
-  - Aleksander Kuznetsov <gonzalo@adaltas.com>
+  - Aleksander Kuznetsov <aleksander.kuznetsov@edu.dsti.institute>
 ---
 
 ## DevOps lab1
